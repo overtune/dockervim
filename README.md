@@ -1,4 +1,12 @@
-# Development environment with AstroNvim
+# Developmen  environment with AstroNvim
+
+Use this file from dockerhub:
+
+```sh
+docker pull overtune/dockervim:latest
+# See below for current directory mapping on different systems
+docker run -it -v $(pwd):/app overtune/dockervim:latest
+```
 
 ## Build Docker image
 
