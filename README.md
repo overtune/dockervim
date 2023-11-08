@@ -1,4 +1,4 @@
-# Development environment with AstroNeovim
+# Development environment with AstroNvim
 
 ## Build Docker image
 
